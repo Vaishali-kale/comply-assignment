@@ -2,4 +2,4 @@ fastapi
 uvicorn
 python-multipart
 PyMuPDF
-python-jose[cryptography]
+PyJWT
